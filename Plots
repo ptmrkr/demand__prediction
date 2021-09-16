@@ -1,0 +1,7 @@
+Please follow these links to see the complete data visualization and analyses - 
+
+EDA - https://nbviewer.jupyter.org/github/ptmrkr/demand__prediction/blob/master/EDA.ipynb
+
+Lin_reg - https://nbviewer.jupyter.org/github/ptmrkr/demand__prediction/blob/master/predict_lin_reg.ipynb
+
+XGBoost - https://nbviewer.jupyter.org/github/ptmrkr/demand__prediction/blob/master/predict_xgboost.ipynb
